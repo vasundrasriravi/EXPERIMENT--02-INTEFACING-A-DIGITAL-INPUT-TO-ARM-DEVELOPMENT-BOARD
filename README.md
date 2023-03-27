@@ -51,6 +51,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include "stdio.h"
 #include "stdbool.h"
@@ -165,7 +166,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 
-
+```
 
 
 ## Output  :
